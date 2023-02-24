@@ -2,7 +2,7 @@
 * 알고리즘 스터디 기록을 위한 저장소입니다.
 
 ## 🕹️Members
-|[🌟최수현(조장님)](https://github.com/shunny822)|[⭐박현준](https://github.com/DT-HYUNJUN)|[⭐이민욱](https://github.com/Code-Sloth)|[⭐이수빈](https://github.com/Ssooob)|[⭐정광배](https://github.com/iblug)|[⭐최은비](https://github.com/rloldl-c)|
+|[🌟최수현<br>(조장님)](https://github.com/shunny822)|[⭐박현준](https://github.com/DT-HYUNJUN)|[⭐이민욱](https://github.com/Code-Sloth)|[⭐이수빈](https://github.com/Ssooob)|[⭐정광배](https://github.com/iblug)|[⭐최은비](https://github.com/rloldl-c)|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |[![최수현](https://github.com/shunny822.png)](https://github.com/shunny822)|[![박현준](https://github.com/DT-HYUNJUN.png)](https://github.com/DT-HYUNJUN)|[![이민욱](https://github.com/Code-Sloth.png)](https://github.com/Code-Sloth)|[![이수빈](https://github.com/Ssooob.png)](https://github.com/Ssooob)|[![정광배](https://github.com/iblug.png)](https://github.com/iblug)|[![최은비](https://github.com/rloldl-c.png)](https://github.com/rloldl-c)|
 
