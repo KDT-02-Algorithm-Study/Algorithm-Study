@@ -25,7 +25,7 @@ git merge main
 * 작업 내용을 커밋 and push 한다.
 ```
 git status // 변경사항 확인
-git add .
+git add "파일위치/파일명" // 또는 git add .
 git commit -m "문제번호_이름"
 git push origin [브런치이름]
 ```
