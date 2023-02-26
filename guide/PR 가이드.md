@@ -61,6 +61,10 @@ git push origin [브런치이름]
 
 * Create pull request 버튼을 누른다.
 
+![화면 캡처 2023-02-27 013022](https://user-images.githubusercontent.com/114655005/221424165-04cab66f-adeb-4dcb-85fc-1d20346de4c5.png)
+
+* 끝
+
 * ~~Merge pull requests 버튼은 코드 리뷰 후에 누르기~~
 
 🍀끝입니다. 다들 파이팅!
