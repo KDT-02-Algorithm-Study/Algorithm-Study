@@ -27,13 +27,13 @@ git merge main
 ```
 git branch
 ```
-* 작업 내용을 신중하게 커밋한다. 
+* 작업 내용을 **신중하게 커밋**한다. 
 ```
 git status // 변경사항 확인
 git add "파일위치/파일명" // 또는 git add .
 git commit -m "문제번호_이름"
 ```
-* 신중하게 push한다.
+* **신중하게 push**한다.
 ```
 git push origin [브런치이름]
 ```
