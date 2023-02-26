@@ -29,16 +29,12 @@ git status // 변경사항 확인
 git add "파일위치/파일명" // 또는 git add .
 git commit -m "문제번호_이름"
 ```
-* 잘못 커밋했을 경우
-
-  * 그냥 덮어씌우거나 링크 참고
-
-  * [커밋 관리](%EC%BB%A4%EB%B0%8B%20%EA%B4%80%EB%A6%AC.md)
-
 * 신중하게 push한다.
 ```
 git push origin [브런치이름]
 ```
+* 잘못 커밋했을 경우
+  * 그냥 덮어씌우거나 [커밋 관리](%EC%BB%A4%EB%B0%8B%20%EA%B4%80%EB%A6%AC.md) 참고
 
 ## 💡Pull Requests
 
@@ -54,13 +50,13 @@ git push origin [브런치이름]
 
 
 * 브런치를 확인한다.
-
-  * base: main
-
-  * compare: 내 브런치
+  * `base: main`
+  * `compare: 내 브런치`
 
 * PR제목과 간단한 코멘트를 적는다.
 
 * Create pull request 버튼을 누른다.
+
+* Merge pull requests 버튼은 코드 리뷰 후에 누르기 
 
 🍀끝입니다. 다들 파이팅!
