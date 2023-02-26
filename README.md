@@ -19,9 +19,9 @@
 
 ## ✅Commit & PR Rule
 
-[초기 설정](%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95.md)
+[초기 설정](guide/%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95.md)
 
-[PR 가이드](PR%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
+[PR 가이드](guide/PR%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
 
 * 1문제당 1 커밋, 1 PR 작성한다.
 * 자신의 브랜치에 커밋한다.
