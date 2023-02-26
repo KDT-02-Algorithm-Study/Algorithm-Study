@@ -22,7 +22,7 @@ git merge main
 
   * ex) `1000_홍길동.py`
 
-* 작업 내용을 커밋 and push 한다.
+* 작업 내용을 커밋 and push 한다. ❗자신의 브런치에 위치하고 있는지 확인❗
 ```
 git status // 변경사항 확인
 git add "파일위치/파일명" // 또는 git add .
@@ -50,5 +50,7 @@ git push origin [브런치이름]
   * compare: 내 브런치
 
 * PR제목과 간단한 코멘트를 적는다.
+
+* Create pull request 버튼을 누른다.
 
 🍀끝입니다. 다들 파이팅!
