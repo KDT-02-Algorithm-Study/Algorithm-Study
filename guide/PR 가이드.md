@@ -1,6 +1,6 @@
 # PR 가이드
 
-## 💡Commit
+## 💡1. Pull
 
 ❗**반드시 이 과정 진행 후 작업을 진행해 주세요**❗
 
@@ -13,6 +13,7 @@ git checkout [브런치이름]
 git merge main
 ```
 
+## 💡2. Commit & Push
 * 문제를 풀이 후 `weekN_date/문제`폴더에 자신이 작성한 코드를 넣는다.
   * 간단한 주석을 작성한다.
 
@@ -36,7 +37,7 @@ git push origin [브런치이름]
 * 잘못 커밋했을 경우
   * 그냥 덮어씌우거나 [커밋 관리](%EC%BB%A4%EB%B0%8B%20%EA%B4%80%EB%A6%AC.md) 참고
 
-## 💡Pull Requests
+## 💡3. Pull Requests
 
 ![](https://user-images.githubusercontent.com/114655005/221224677-3f4f08b4-3749-49fb-b42e-6d33195e18f7.png)
 
@@ -60,3 +61,5 @@ git push origin [브런치이름]
 * ~~Merge pull requests 버튼은 코드 리뷰 후에 누르기~~
 
 🍀끝입니다. 다들 파이팅!
+
+> ~~위 가이드는 권장사항으로 조금씩 달라도 됩니다.~~
