@@ -19,11 +19,11 @@
 
 ## ✅Commit & PR Rule
 
-[초기 설정](guide/%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95.md)
+[📁초기 설정](guide/%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95.md)
 
-[PR 가이드](guide/PR%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
+[❗Commit & PR 가이드](guide/PR%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
 
-* 1문제당 1 커밋, 1 PR 작성한다.
+* 1문제당 1 커밋을 작성한다.(8주차 부터)
 * 자신의 브랜치에 커밋한다.
 * 필요한 경우 코멘트를 작성한다.
 * 파일명: `문제번호_이름.py`
@@ -34,6 +34,17 @@
 
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
+
+🏃week8
+
+|번호|제목|
+|:-:|:-:|
+|1213|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|
+|2477|[참외밭](https://www.acmicpc.net/problem/2477)|
+|13335|[트럭](https://www.acmicpc.net/problem/13335)|
+|16113|[시그널](https://www.acmicpc.net/problem/16113)|
+|14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)|
+|18111|[마인크래프트](https://www.acmicpc.net/problem/18111)|
 
 🏃week7
 
