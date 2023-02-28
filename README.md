@@ -35,6 +35,17 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week8
+
+|번호|제목|
+|:-:|:-:|
+|1213|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|
+|2477|[참외밭](https://www.acmicpc.net/problem/2477)|
+|13335|[트럭](https://www.acmicpc.net/problem/13335)|
+|16113|[시그널](https://www.acmicpc.net/problem/16113)|
+|14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)|
+|18111|[마인크래프트](https://www.acmicpc.net/problem/18111)|
+
 🏃week7
 
 |번호|제목|
