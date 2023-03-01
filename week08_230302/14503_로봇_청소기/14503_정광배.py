@@ -58,35 +58,3 @@ while True:
     cnt = 0
 
 print(ans)
-
-
-
-
-
-
-    # if 0 < nr <= n and 0 < nc <= m:
-    #     if 
-
-    
-
-
-    # for dr, dc in di:
-    #     nr = r + dr
-    #     nc = c + dc
-    #     if nr < 0 or nr >= n or nc < 0 or nc >= m:
-    #         continue
-    #     if data[nr][nc] == '0' and not visited[nr][nc]:
-    #         flag = True
-    #         break
-    # if flag:
-    #     d = (d+3)//4
-    #     nr = r + di[d][0]
-    #     nc = c + di[d][1]
-    #     if data[nr][nc] == '0' and not visited[nr][nc]:
-    #         r = nr
-    #         c = nc
-
-    # if nr < 0 or nr >= n or nc < 0 or nc >= m or visited[nr][nc] or data[nr][nc]:
-    #     d = (d+3)//4
-    #     cnt += 1
-    #     continue
