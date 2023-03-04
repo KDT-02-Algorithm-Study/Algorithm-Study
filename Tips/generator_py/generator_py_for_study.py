@@ -66,11 +66,11 @@ while True:
         continue
     
     # 임시파일 생성(필요시)
-    
+    '''
     with open(f'{fd}/create_folder.md', 'w', encoding='utf-8') as f:
         f.write('폴더 생성을 위한 임시 파일')
     print(BRIGHT_BLUE+'++ 임시파일 ++'+BRIGHT_END)
-    
+    '''
 
     # console 출력
     print(BRIGHT_GREEN+f'++ {fd}/{py_file} ++'+BRIGHT_END)
