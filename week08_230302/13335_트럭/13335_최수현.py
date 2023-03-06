@@ -24,7 +24,7 @@ while truck:
         else:
             done.append(0)
 
-    # 다리에 오른 트럭의 수가 다리길이-1 미만
+    # 다리에 오른 트럭의 수가 다리길이-1 이상
     else:
         if on_bridge + truck[0] <= wt:
             x = truck.popleft()
