@@ -1,4 +1,7 @@
 # https://www.acmicpc.net/problem/11866
+# idx를 1씩 증가시키면서 k번째 사람이 되면(cnt로 나눴을 때 0이 되면)
+# 원래 순서에서 pop한 후 결과 리스트에 append
+# k번째가 아니라면 pop과 append로 맨 뒤로 보내 순서를 유지
 
 import sys
 input = sys.stdin.readline
