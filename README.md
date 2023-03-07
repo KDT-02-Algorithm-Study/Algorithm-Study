@@ -35,6 +35,17 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week9
+
+|번호|제목|
+|:-:|:-:|
+|1459|[걷기](https://www.acmicpc.net/problem/1459)|
+|1758|[알바생 강호](https://www.acmicpc.net/problem/1758)|
+|11497|[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)|
+|14247|[나무 자르기](https://www.acmicpc.net/problem/14247)|
+|16953|[A → B](https://www.acmicpc.net/problem/16953)|
+|25632|[소수 부르기 게임](https://www.acmicpc.net/problem/25632)|
+
 🏃week8
 
 |번호|제목|
