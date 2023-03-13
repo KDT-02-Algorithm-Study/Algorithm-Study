@@ -35,6 +35,17 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week10
+
+|번호|제목|
+|:-:|:-:|
+|1421|[나무꾼 이다솜](https://www.acmicpc.net/problem/1421)|
+|2502|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|
+|2503|[숫자 야구](https://www.acmicpc.net/problem/2503)|
+|10157|[자리배정](https://www.acmicpc.net/problem/10157)|
+|12913|[매직 포션](https://www.acmicpc.net/problem/12913)|
+|16922|[로마 숫자 만들기](https://www.acmicpc.net/problem/16922)|
+
 🏃week9
 
 |번호|제목|
