@@ -43,7 +43,7 @@
 |2502|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|
 |2503|[숫자 야구](https://www.acmicpc.net/problem/2503)|
 |10157|[자리배정](https://www.acmicpc.net/problem/10157)|
-|12913|[매직 포션](https://www.acmicpc.net/problem/12913)|
+|12919|[A와 B 2](https://www.acmicpc.net/problem/12919)|
 |16922|[로마 숫자 만들기](https://www.acmicpc.net/problem/16922)|
 
 🏃week9
