@@ -1,5 +1,5 @@
 # 25632 소수 부르기 게임
-# KB / ms
+# 31256 KB / 44 ms
 
 a, b = map(int, input().split())
 c, d = map(int, input().split())
