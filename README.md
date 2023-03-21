@@ -35,6 +35,17 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week11
+
+|번호|제목|
+|:-:|:-:|
+|14888|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|
+|14889|[스타트와 링크](https://www.acmicpc.net/problem/14889)|
+|16198|[에너지 모으기](https://www.acmicpc.net/problem/16198)|
+|18429|[근손실](https://www.acmicpc.net/problem/18429)|
+|19949|[영재의 시험](https://www.acmicpc.net/problem/19949)|
+|21735|[눈덩이 굴리기](https://www.acmicpc.net/problem/21735)|
+
 🏃week10
 
 |번호|제목|
