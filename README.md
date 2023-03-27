@@ -35,6 +35,17 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week12
+
+|번호|제목|
+|:-:|:-:|
+|2343|[기타 레슨](https://www.acmicpc.net/problem/2343)|
+|2805|[나무 자르기](https://www.acmicpc.net/problem/2805)|
+|10816|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|
+|15810|[풍선 공장](https://www.acmicpc.net/problem/15810)|
+|19637|[IF문 좀 대신 써줘](https://www.acmicpc.net/problem/19637)|
+|20444|[색종이와 가위](https://www.acmicpc.net/problem/20444)|
+
 🏃week11
 
 |번호|제목|
