@@ -93,7 +93,7 @@ def BackTracking(deep , total):
             visit[i]=True
             BackTracking(deep+1 , total+L[i]-K) # depth와 total에 대해 바로 dfs로 넣기
             visit[i]=False
-BackTracking(1,300) # 500인데..? 뭐지 
+BackTracking(1,300) # 500인데..? 뭐지
 
 print(Answer)
 
