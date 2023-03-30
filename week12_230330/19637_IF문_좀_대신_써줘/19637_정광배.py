@@ -13,10 +13,10 @@ def bs(lo, hi):
     mid = lo+hi >> 1 # (lo+hi)//2
 
     # 
-    if power[mid] < now:
-        return bs(mid, hi)
-    else:
+    if power[mid] >= now:
         return bs(lo, mid)
+    else:
+        return bs(mid, hi)
 
 
 n, m = map(int, input().split())
@@ -39,22 +39,22 @@ for _ in range(m):
 A B  C  D   : title
 
 now = 9
-power[mid] < now
-1 0 0 0
+power[mid] >= now
+0 1 1 1
   ↑
   
 now = 10
-power[mid] < now
-1 0 0 0
+power[mid] >= now
+0 1 1 1
   ↑
   
 now = 11
-power[mid] < now
-1 1 1 0
+power[mid] >= now
+0 0 0 1
       ↑
 
 now = 100
-power[mid] < now
-1 1 1 1
-      ↑ n-1
+power[mid] >= now
+0 0 [0 0]           # 이부분에서 탈출 후 hi(n-1) 리턴
+       ↑ n-1
 '''
