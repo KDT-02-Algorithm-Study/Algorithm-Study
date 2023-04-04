@@ -35,6 +35,17 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week13
+
+|번호|제목|
+|:-:|:-:|
+|2304|[창고 다각형](https://www.acmicpc.net/problem/2304)|
+|2531|[회전 초밥](https://www.acmicpc.net/problem/2531)|
+|4659|[비밀번호 발음하기](https://www.acmicpc.net/problem/4659)|
+|15989|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|
+|20006|[랭킹전 대기열](https://www.acmicpc.net/problem/20006)|
+|20055|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|
+
 🏃week12
 
 |번호|제목|
