@@ -35,6 +35,17 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week14
+
+|번호|제목|
+|:-:|:-:|
+|1713|[후보 추천하기](https://www.acmicpc.net/problem/1713)|
+|2469|[사다리 타기](https://www.acmicpc.net/problem/2469)|
+|2615|[오목](https://www.acmicpc.net/problem/2615)|
+|2636|[치즈](https://www.acmicpc.net/problem/2636)|
+|2659|[십자카드 문제](https://www.acmicpc.net/problem/2659)|
+|2668|[숫자고르기](https://www.acmicpc.net/problem/2668)|
+
 🏃week13
 
 |번호|제목|
