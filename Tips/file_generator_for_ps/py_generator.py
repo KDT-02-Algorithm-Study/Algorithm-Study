@@ -50,7 +50,7 @@ while True:
     except:
         print(BRIGHT_RED+'== 해당 문제가 없습니다. =='+BRIGHT_END)
         continue
-    input_ex = soup.find('pre', {'id': 'sample-input-1'}).text
+    input_ex = soup.find('pre', {'id': 'sample-input-1'}).text.replace('\r', '')
 
     # re라이브러리를 사용하여 파일명으로 불가능한 문자와 공백을 '_'로 바꿔줌(정규표현식)
     title_ = re.sub(r'[\\/*:?"<>| ]', '_', title)
