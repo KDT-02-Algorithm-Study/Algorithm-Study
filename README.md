@@ -35,6 +35,15 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week16
+
+|번호|제목|
+|:-:|:-:|
+|1406|[에디터](https://www.acmicpc.net/problem/1406)|
+|2493|[탑](https://www.acmicpc.net/problem/2493)|
+|2504|[괄호의 값](https://www.acmicpc.net/problem/2504)|
+|11000|[강의실 배정](https://www.acmicpc.net/problem/11000)|
+
 🏃week15
 
 |번호|제목|
