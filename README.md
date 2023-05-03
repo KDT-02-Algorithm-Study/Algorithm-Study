@@ -35,6 +35,14 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week17
+
+|번호|제목|
+|:-:|:-:|
+|2002|[추월](https://www.acmicpc.net/problem/2002)|
+|14719|[빗물](https://www.acmicpc.net/problem/14719)|
+|21610|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|
+
 🏃week16
 
 |번호|제목|
