@@ -35,6 +35,14 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week19
+
+|번호|제목|
+|:-:|:-:|
+|1138|[한 줄로 서기](https://www.acmicpc.net/problem/1138)|
+|11501|[주식](https://www.acmicpc.net/problem/11501)|
+|20310|[타노스](https://www.acmicpc.net/problem/20310)|
+
 🏃week18
 
 |번호|제목|
