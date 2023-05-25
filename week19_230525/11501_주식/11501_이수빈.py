@@ -1,5 +1,5 @@
 # 11501 주식
-# KB / ms 
+# 168032 KB / 3148ms 
 # 기본 코드
 import sys
 sys.stdin = open("input.txt", "r")
