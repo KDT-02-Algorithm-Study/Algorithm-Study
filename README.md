@@ -35,6 +35,14 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week20
+
+|번호|제목|
+|:-:|:-:|
+|4889|[안정적인 문자열](https://www.acmicpc.net/problem/4889)|
+|5052|[전화번호 목록](https://www.acmicpc.net/problem/5052)|
+|11478|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|
+
 🏃week19
 
 |번호|제목|
