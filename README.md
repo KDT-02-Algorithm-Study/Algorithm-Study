@@ -35,6 +35,14 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week21
+
+|번호|제목|
+|:-:|:-:|
+|1002|[터렛](https://www.acmicpc.net/problem/1002)|
+|15947|[아기 석환 뚜루루 뚜루](https://www.acmicpc.net/problem/15947)|
+|26071|[오락실에 간 총총이](https://www.acmicpc.net/problem/26071)|
+
 🏃week20
 
 |번호|제목|
