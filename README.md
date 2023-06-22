@@ -35,6 +35,14 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week22
+
+|번호|제목|
+|:-:|:-:|
+|87390|[n^2배 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|
+|172927|[광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|
+|176962|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|
+
 🏃week21
 
 |번호|제목|
