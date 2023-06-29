@@ -35,6 +35,15 @@
 ## 📖History
 [문제 리스트 Notion](https://www.notion.so/f74fd92e29754d839503669f3ec1057e?v=80c1fd8071bc45af88811cb316e0f782)
 
+🏃week23
+
+|번호|제목|
+|:-:|:-:|
+|42584|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|
+|42883|[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|
+|118667|[두 큐 합 같게 만들](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|
+|159993|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|
+
 🏃week22
 
 |번호|제목|
